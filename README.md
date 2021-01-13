@@ -2,7 +2,7 @@
 
 This specialization is provided by Deeplearning.ai and it is available on the Coursera.
 The specialization consist of three courses,
-
+##
 1 : Build Basic Generative Adversarial Networks (GANs)
 2 : Build Better Generative Adversarial Networks (GANs)
 3 : Apply Generative Adversarial Networks (GANs)
